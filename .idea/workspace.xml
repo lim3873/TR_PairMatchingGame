@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8545f7b5-c0ea-4c0b-98a4-c46693a8e3e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/cardInfo/CardInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/play/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/tableInfo/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/tableInfo/subTable/CardTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/tableInfo/subTable/CounterTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/play/Play.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/play/Play.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/tableInfo/subTable/CounterTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tableInfo/subTable/CounterTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +73,20 @@
       <option name="project" value="LOCAL" />
       <updated>1673008321253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="객체 선언 완료">
+      <created>1673021849181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673021849181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="짝맞추기 게임 제작 시작!" />
-    <option name="LAST_COMMIT_MESSAGE" value="짝맞추기 게임 제작 시작!" />
+    <MESSAGE value="객체 선언 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="객체 선언 완료" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

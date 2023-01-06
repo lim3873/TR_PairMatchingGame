@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class CounterTable extends Table<Integer> {
 
-    private int totalTryCount = 0;
+    private int totalTryCount = 0;       //총 시도 횟수
 
     public int getTotalTryCount() {
         return totalTryCount;
