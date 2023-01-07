@@ -3,7 +3,7 @@ package app.cardInfo;
 
 public class CardInfo {
     //Card에 대한 Field 생성
-    private int id;
+    private int id; // 판에 들어가는 카드의 갯수
     private String name; //카드 이름
     private int location; //위치
     private boolean isPairComplete; //페어 완료 여부

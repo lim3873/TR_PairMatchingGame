@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8545f7b5-c0ea-4c0b-98a4-c46693a8e3e5" name="Changes" comment="">
+    <list default="true" id="8545f7b5-c0ea-4c0b-98a4-c46693a8e3e5" name="Changes" comment="객체 선언 완료">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/cardInfo/CardInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/cardInfo/CardInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/play/Play.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/play/Play.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/tableInfo/subTable/CounterTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tableInfo/subTable/CounterTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/tableInfo/subTable/CardTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tableInfo/subTable/CardTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
